@@ -1,0 +1,64 @@
+Date,Day_of_the_week,App ,Minutes,Category
+8/27,Monday,INSTAGRAM,137,Social Media
+8/28,Tuesday,INSTAGRAM,160,Social Media
+8/29,Wednesday,INSTAGRAM,257,Social Media
+8/30,Thursday,INSTAGRAM,81,Social Media
+8/31,Friday,INSTAGRAM,114,Social Media
+9/1,Saturday,INSTAGRAM,13,Social Media
+9/1,Sunday,INSTAGRAM,207,Social Media
+8/27,Monday,SNAPCHAT,10,Social Media
+8/28,Tuesday,SNAPCHAT,13,Social Media
+8/29,Wednesday,SNAPCHAT,8,Social Media
+8/30,Thursday,SNAPCHAT,10,Social Media
+8/31,Friday,SNAPCHAT,61,Social Media
+9/1,Saturday,SNAPCHAT,50,Social Media
+9/2,Sunday,SNAPCHAT,64,Social Media
+8/27,Monday,MESSAGES,14,Other
+8/28,Tuesday,MESSAGES,1,Other
+8/29,Wednesday,MESSAGES,0.04,Other
+8/30,Thursday,MESSAGES,21,Other
+8/31,Friday,MESSAGES,8,Other
+9/1,Saturday,MESSAGES,5,Other
+9/2,Sunday,MESSAGES,2,Other
+8/27,Monday,SPOTIFY,35,Entertainment
+8/28,Tuesday,SPOTIFY,7,Entertainment
+8/29,Wednesday,SPOTIFY,3,Entertainment
+8/30,Thursday,SPOTIFY,8,Entertainment
+8/31,Friday,SPOTIFY,25,Entertainment
+9/1,Saturday,SPOTIFY,8,Entertainment
+9/2,Sunday,SPOTIFY,4,Entertainment
+8/27,Monday,WAZE,20,Travel
+8/28,Tuesday,WAZE,0,Travel
+8/29,Wednesday,WAZE,0.02,Travel
+8/30,Thursday,WAZE,0,Travel
+8/31,Friday,WAZE,3,Travel
+9/1,Saturday,WAZE,0,Travel
+9/2,Sunday,WAZE,3,Travel
+8/27,Monday,PHONE,2,Other
+8/28,Tuesday,PHONE,0.03,Other
+8/29,Wednesday,PHONE,7,Other
+8/30,Thursday,PHONE,0.29,Other
+8/31,Friday,PHONE,10,Other
+9/1,Saturday,PHONE,2,Other
+9/2,Sunday,PHONE,0.08,Other
+8/27,Monday,GOOGLE MAPS,0,Travel
+8/28,Tuesday,GOOGLE MAPS,4,Entertainment
+8/29,Wednesday,GOOGLE MAPS,9,Entertainment
+8/30,Thursday,GOOGLE MAPS,5,Travel
+8/31,Friday,GOOGLE MAPS,5,Travel
+9/1,Saturday,GOOGLE MAPS,0,Travel
+9/2,Sunday,GOOGLE MAPS,0,Travel
+8/27,Monday,REDDIT,18,Social Media
+8/28,Tuesday,REDDIT,0,Social Media
+8/29,Wednesday,REDDIT,0,Social Media
+8/30,Thursday,REDDIT,0,Social Media
+8/31,Friday,REDDIT,0,Social Media
+9/1,Saturday,REDDIT,0,Social Media
+9/2,Sunday,REDDIT,0,Social Media
+8/27,Monday,CLOCK,0.06,Other
+8/28,Tuesday,CLOCK,10,Other
+8/29,Wednesday,CLOCK,0.27,Other
+8/30,Thursday,CLOCK,0.12,Other
+8/31,Friday,CLOCK,0.48,Other
+9/1,Saturday,CLOCK,3,Other
+9/2,Sunday,CLOCK,0,Other
